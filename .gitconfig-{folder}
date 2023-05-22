@@ -1,0 +1,8 @@
+# {folder}
+
+[user]
+email = marcelo.mita@alumni.usp.br
+name = Marcelo Mita
+
+[core]
+sshCommand = "ssh -i ~/.ssh/{folder}"

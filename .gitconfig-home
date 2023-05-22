@@ -1,0 +1,11 @@
+[includeIf "gitdir:~/projects/{folder}/"]
+path = ~/projects/folder/.gitconfig-{folder}
+
+[core]
+excludesfile = ~/.gitignore
+
+[user]
+	email = marcelo.mita@alumni.usp.br
+	name = Marcelo Mita
+[init]
+	defaultBranch = main
